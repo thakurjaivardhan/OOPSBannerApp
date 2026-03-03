@@ -4,7 +4,7 @@
  * This calss demonstrates A SIMPLE Java application that displays the
  * OOPS acronym to the console.
  * 
- * @author Jaivardhan Thakur
+ * @author Sameer 
  * @version 1.0
  */
 public class OOPSBannerApp {
@@ -13,3 +13,4 @@ public class OOPSBannerApp {
         System.out.println("OOPS");
     }
 }
+// UC1 Implementation
